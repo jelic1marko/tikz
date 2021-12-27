@@ -1,2 +1,2 @@
 # tikz
-A library of tikz-based diagrams for scientific publications
+A library of tikz-based LaTeX diagrams for scientific publications
